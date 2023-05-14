@@ -1,5 +1,7 @@
+import { Editor } from '@pages';
+
 const App = () => {
-  return <></>;
+  return <Editor />;
 };
 
 export default App;
